@@ -1,0 +1,11 @@
+--- page 3 --- CONSOLIDATED INCOME STATEMENT (USD thousands)      FY2023   FY2022
+Revenue                         5,000    4,500
+Cost of sales                  (3,000)  (2,800)
+Gross profit                    2,000    1,700
+Net income                        500      350
+--- page 5 --- CONSOLIDATED BALANCE SHEET (USD thousands)     FY2023   FY2022
+Cash and cash equivalents         900      600
+Total assets                    3,500    2,800
+Total liabilities                1,700    1,500
+Total equity                    1,800    1,300
+Total liabilities and equity    3,500    2,800

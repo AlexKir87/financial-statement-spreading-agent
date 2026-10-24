@@ -1,0 +1,199 @@
+statement,label,standard_line_id
+IS,Revenue,is_revenue
+IS,Revenues,is_revenue
+IS,Net sales,is_revenue
+IS,Sales,is_revenue
+IS,Turnover,is_revenue
+IS,Total revenue,is_revenue
+IS,Cost of sales,is_cost_of_sales
+IS,Cost of revenue,is_cost_of_sales
+IS,Cost of goods sold,is_cost_of_sales
+IS,Gross profit,is_gross_profit
+IS,Operating expenses,is_operating_expenses
+IS,Operating profit,is_operating_profit
+IS,Operating income,is_operating_profit
+IS,Interest expense,is_interest_expense
+IS,Finance costs,is_interest_expense
+IS,Profit before tax,is_profit_before_tax
+IS,Profit before taxation,is_profit_before_tax
+IS,Income before income taxes,is_profit_before_tax
+IS,Income tax,is_income_tax
+IS,Income tax expense,is_income_tax
+IS,Taxation,is_income_tax
+IS,Net income,is_net_income
+IS,Net profit,is_net_income
+IS,Profit for the year,is_net_income
+IS,Profit for the period,is_net_income
+BS,Cash and cash equivalents,bs_cash
+BS,Cash,bs_cash
+BS,Trade receivables,bs_receivables
+BS,Trade and other receivables,bs_receivables
+BS,Accounts receivable,bs_receivables
+BS,Inventory,bs_inventory
+BS,Inventories,bs_inventory
+BS,Total current assets,bs_total_current_assets
+BS,Property plant and equipment,bs_ppe
+BS,Tangible assets,bs_ppe
+BS,Goodwill,bs_intangibles
+BS,Intangible assets,bs_intangibles
+BS,Total non-current assets,bs_total_noncurrent_assets
+BS,Total noncurrent assets,bs_total_noncurrent_assets
+BS,Total assets,bs_total_assets
+BS,Trade payables,bs_payables
+BS,Trade and other payables,bs_payables
+BS,Accounts payable,bs_payables
+BS,Borrowings,bs_borrowings
+BS,Total current liabilities,bs_total_current_liabilities
+BS,Total non-current liabilities,bs_total_noncurrent_liabilities
+BS,Total noncurrent liabilities,bs_total_noncurrent_liabilities
+BS,Total long-term liabilities,bs_total_noncurrent_liabilities
+BS,Total liabilities,bs_total_liabilities
+BS,Share capital,bs_share_capital
+BS,Called up share capital,bs_share_capital
+BS,Retained earnings,bs_retained_earnings
+BS,Total equity,bs_total_equity
+BS,Total shareholders equity,bs_total_equity
+BS,Total liabilities and equity,bs_total_liabilities_and_equity
+BS,Total equity and liabilities,bs_total_liabilities_and_equity
+CF,Net income,cf_net_income
+CF,Profit for the year,cf_net_income
+CF,Depreciation and amortisation,cf_depreciation_amortisation
+CF,Depreciation and amortization,cf_depreciation_amortisation
+CF,Depreciation,cf_depreciation_amortisation
+CF,Net cash from operating activities,cf_net_cash_operating
+CF,Net cash provided by operating activities,cf_net_cash_operating
+CF,Net cash from investing activities,cf_net_cash_investing
+CF,Net cash used in investing activities,cf_net_cash_investing
+CF,Net cash from financing activities,cf_net_cash_financing
+CF,Net cash used in financing activities,cf_net_cash_financing
+CF,Dividends paid,cf_dividends_paid
+CF,Net change in cash,cf_net_change_in_cash
+CF,Net increase in cash and cash equivalents,cf_net_change_in_cash
+CF,Net increase decrease in cash,cf_net_change_in_cash
+CF,Increase in receivables,cf_change_receivables
+CF,Increase in trade receivables,cf_change_receivables
+CF,Increase in inventory,cf_change_inventory
+CF,Increase in inventories,cf_change_inventory
+CF,Increase in payables,cf_change_payables
+CF,Increase in trade payables,cf_change_payables
+CF,Purchase of property plant and equipment,cf_capex
+CF,Capital expenditure,cf_capex
+BS,Accrued liabilities,bs_other_liabilities
+BS,Accrued expenses,bs_other_liabilities
+BS,Accrued expenses and other liabilities,bs_other_liabilities
+BS,Income taxes payable,bs_other_liabilities
+BS,Taxes payable,bs_other_liabilities
+CF,Cash and cash equivalents at beginning of period,cf_cash_beginning
+CF,"Cash and cash equivalents, beginning of period",cf_cash_beginning
+CF,Cash and equivalents at beginning of period,cf_cash_beginning
+CF,Cash at beginning of period,cf_cash_beginning
+CF,"Cash, cash equivalents and restricted cash at beginning of period",cf_cash_beginning
+CF,"Cash, cash equivalents and restricted cash, beginning of period",cf_cash_beginning
+CF,Beginning of period,cf_cash_beginning
+CF,Cash and cash equivalents at beginning of year,cf_cash_beginning
+CF,Cash and cash equivalents at beginning of the period,cf_cash_beginning
+CF,Cash and cash equivalents at end of period,cf_cash_end
+CF,"Cash and cash equivalents, end of period",cf_cash_end
+CF,Cash and equivalents at end of period,cf_cash_end
+CF,Cash at end of period,cf_cash_end
+CF,"Cash, cash equivalents and restricted cash at end of period",cf_cash_end
+CF,"Cash, cash equivalents and restricted cash, end of period",cf_cash_end
+CF,End of period,cf_cash_end
+CF,Cash and cash equivalents at end of year,cf_cash_end
+CF,Cash and cash equivalents at end of the period,cf_cash_end
+BS,Common stock and additional paid-in capital,bs_share_capital
+IS,Basic earnings per share,is_eps_basic
+IS,Basic loss per share,is_eps_basic
+IS,Basic earnings loss per share,is_eps_basic
+IS,Earnings per share basic,is_eps_basic
+IS,Earnings per common share basic,is_eps_basic
+IS,Basic earnings per common share,is_eps_basic
+IS,Basic net income per share,is_eps_basic
+IS,Net income per share basic,is_eps_basic
+IS,Basic net earnings per share,is_eps_basic
+IS,Diluted earnings per share,is_eps_diluted
+IS,Diluted loss per share,is_eps_diluted
+IS,Diluted earnings loss per share,is_eps_diluted
+IS,Earnings per share diluted,is_eps_diluted
+IS,Earnings per common share diluted,is_eps_diluted
+IS,Diluted earnings per common share,is_eps_diluted
+IS,Diluted net income per share,is_eps_diluted
+IS,Net income per share diluted,is_eps_diluted
+IS,Diluted net earnings per share,is_eps_diluted
+IS,Weighted-average shares outstanding-basic,is_shares_basic
+IS,Weighted average shares outstanding basic,is_shares_basic
+IS,Basic weighted-average number of shares outstanding,is_shares_basic
+IS,Basic weighted-average shares outstanding,is_shares_basic
+IS,Basic weighted average shares outstanding,is_shares_basic
+IS,Basic weighted average number of shares,is_shares_basic
+IS,Weighted-average shares outstanding-diluted,is_shares_diluted
+IS,Weighted average shares outstanding diluted,is_shares_diluted
+IS,Diluted weighted-average number of shares outstanding,is_shares_diluted
+IS,Diluted weighted-average shares outstanding,is_shares_diluted
+IS,Diluted weighted average shares outstanding,is_shares_diluted
+IS,Diluted weighted average number of shares,is_shares_diluted
+IS,Dividends declared per common share,is_dividends_per_share
+IS,Dividends per share,is_dividends_per_share
+IS,Cash dividends declared per share,is_dividends_per_share
+IS,Dividends declared per share,is_dividends_per_share
+IS,Dividends paid per share,is_dividends_per_share
+IS,net earnings attributable to noncontrolling interests,is_below_net_income
+IS,net earnings attributable to noncontrolling interest,is_below_net_income
+IS,net earnings attributable to non controlling interests,is_below_net_income
+IS,net earnings attributable to non controlling interest,is_below_net_income
+IS,net earnings attributable to minority interests,is_below_net_income
+IS,net earnings attributable to minority interest,is_below_net_income
+IS,net income attributable to noncontrolling interests,is_below_net_income
+IS,net income attributable to noncontrolling interest,is_below_net_income
+IS,net income attributable to non controlling interests,is_below_net_income
+IS,net income attributable to non controlling interest,is_below_net_income
+IS,net income attributable to minority interests,is_below_net_income
+IS,net income attributable to minority interest,is_below_net_income
+IS,net earnings loss attributable to noncontrolling interests,is_below_net_income
+IS,net earnings loss attributable to noncontrolling interest,is_below_net_income
+IS,net earnings loss attributable to non controlling interests,is_below_net_income
+IS,net earnings loss attributable to non controlling interest,is_below_net_income
+IS,net earnings loss attributable to minority interests,is_below_net_income
+IS,net earnings loss attributable to minority interest,is_below_net_income
+IS,net income loss attributable to noncontrolling interests,is_below_net_income
+IS,net income loss attributable to noncontrolling interest,is_below_net_income
+IS,net income loss attributable to non controlling interests,is_below_net_income
+IS,net income loss attributable to non controlling interest,is_below_net_income
+IS,net income loss attributable to minority interests,is_below_net_income
+IS,net income loss attributable to minority interest,is_below_net_income
+IS,net loss attributable to noncontrolling interests,is_below_net_income
+IS,net loss attributable to noncontrolling interest,is_below_net_income
+IS,net loss attributable to non controlling interests,is_below_net_income
+IS,net loss attributable to non controlling interest,is_below_net_income
+IS,net loss attributable to minority interests,is_below_net_income
+IS,net loss attributable to minority interest,is_below_net_income
+IS,less net earnings attributable to noncontrolling interests,is_below_net_income
+IS,less net earnings attributable to noncontrolling interest,is_below_net_income
+IS,less net earnings attributable to non controlling interests,is_below_net_income
+IS,less net earnings attributable to non controlling interest,is_below_net_income
+IS,less net earnings attributable to minority interests,is_below_net_income
+IS,less net earnings attributable to minority interest,is_below_net_income
+IS,less net income attributable to noncontrolling interests,is_below_net_income
+IS,less net income attributable to noncontrolling interest,is_below_net_income
+IS,less net income attributable to non controlling interests,is_below_net_income
+IS,less net income attributable to non controlling interest,is_below_net_income
+IS,less net income attributable to minority interests,is_below_net_income
+IS,less net income attributable to minority interest,is_below_net_income
+IS,less net earnings loss attributable to noncontrolling interests,is_below_net_income
+IS,less net earnings loss attributable to noncontrolling interest,is_below_net_income
+IS,less net earnings loss attributable to non controlling interests,is_below_net_income
+IS,less net earnings loss attributable to non controlling interest,is_below_net_income
+IS,less net earnings loss attributable to minority interests,is_below_net_income
+IS,less net earnings loss attributable to minority interest,is_below_net_income
+IS,less net income loss attributable to noncontrolling interests,is_below_net_income
+IS,less net income loss attributable to noncontrolling interest,is_below_net_income
+IS,less net income loss attributable to non controlling interests,is_below_net_income
+IS,less net income loss attributable to non controlling interest,is_below_net_income
+IS,less net income loss attributable to minority interests,is_below_net_income
+IS,less net income loss attributable to minority interest,is_below_net_income
+IS,less net loss attributable to noncontrolling interests,is_below_net_income
+IS,less net loss attributable to noncontrolling interest,is_below_net_income
+IS,less net loss attributable to non controlling interests,is_below_net_income
+IS,less net loss attributable to non controlling interest,is_below_net_income
+IS,less net loss attributable to minority interests,is_below_net_income
+IS,less net loss attributable to minority interest,is_below_net_income

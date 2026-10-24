@@ -1,0 +1,35 @@
+statement,section,label,standard_line_id
+CF,operating,Other,cf_other_operating
+CF,operating,"Other, net",cf_other_operating
+CF,investing,Other,cf_other_investing
+CF,investing,"Other, net",cf_other_investing
+CF,financing,Other,cf_other_financing
+CF,financing,"Other, net",cf_other_financing
+BS,assets,Deferred income taxes,bs_other_noncurrent_assets
+BS,assets,"Deferred income taxes, net",bs_other_noncurrent_assets
+BS,liabilities,Deferred income taxes,bs_other_liabilities
+BS,liabilities,"Deferred income taxes, net",bs_other_liabilities
+IS,revenue,Products,is_revenue
+IS,revenue,Services,is_revenue
+IS,costs,Products,is_cost_of_sales
+IS,costs,Services,is_cost_of_sales
+IS,costs,Other,is_operating_expenses
+IS,costs_to_gross_profit,Other,is_cost_of_sales
+IS,costs,"Other, net",is_operating_expenses
+IS,costs_to_gross_profit,"Other, net",is_cost_of_sales
+IS,costs,"Other operating (income) expense, net",is_operating_expenses
+IS,costs_to_gross_profit,"Other operating (income) expense, net",is_cost_of_sales
+IS,costs,"Other unallocated, net",is_operating_expenses
+IS,costs_to_gross_profit,"Other unallocated, net",is_cost_of_sales
+IS,costs,Impairment and other charges,is_operating_expenses
+IS,costs_to_gross_profit,Impairment and other charges,is_cost_of_sales
+IS,costs,Total operating costs and expenses,is_operating_expenses
+IS,costs_to_gross_profit,Total operating costs and expenses,is_cost_of_sales
+IS,costs,Total costs and expenses,is_operating_expenses
+IS,costs_to_gross_profit,Total costs and expenses,is_cost_of_sales
+IS,costs_to_gross_profit,Products,is_cost_of_sales
+IS,costs_to_gross_profit,Services,is_cost_of_sales
+IS,per_share,Basic,is_eps_basic
+IS,per_share,Diluted,is_eps_diluted
+IS,share_count,Basic,is_shares_basic
+IS,share_count,Diluted,is_shares_diluted

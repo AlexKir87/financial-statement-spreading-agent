@@ -1,0 +1,62 @@
+line_id,statement,label,kind
+is_revenue,IS,Revenue,detail
+is_cost_of_sales,IS,Cost of sales,detail
+is_gross_profit,IS,Gross profit,subtotal
+is_operating_expenses,IS,Operating expenses,detail
+is_operating_profit,IS,Operating profit,subtotal
+is_interest_expense,IS,Interest expense,detail
+is_profit_before_tax,IS,Profit before tax,subtotal
+is_income_tax,IS,Income tax,detail
+is_other_items,IS,Other income statement items,detail
+is_net_income,IS,Net income,subtotal
+bs_cash,BS,Cash and cash equivalents,detail
+bs_receivables,BS,Trade and other receivables,detail
+bs_inventory,BS,Inventory,detail
+bs_other_current_assets,BS,Other current assets,detail
+bs_total_current_assets,BS,Total current assets,subtotal
+bs_ppe,BS,"Property, plant and equipment",detail
+bs_intangibles,BS,Intangible assets and goodwill,detail
+bs_other_noncurrent_assets,BS,Other non-current assets,detail
+bs_total_noncurrent_assets,BS,Total non-current assets,subtotal
+bs_total_assets,BS,Total assets,total
+bs_payables,BS,Trade and other payables,detail
+bs_borrowings,BS,Borrowings,detail
+bs_other_liabilities,BS,Other liabilities,detail
+bs_total_current_liabilities,BS,Total current liabilities,subtotal
+bs_total_noncurrent_liabilities,BS,Total non-current liabilities,subtotal
+bs_total_liabilities,BS,Total liabilities,total
+bs_share_capital,BS,Share capital,detail
+bs_retained_earnings,BS,Retained earnings,detail
+bs_re_other_movements,BS,Other movements in retained earnings,detail
+bs_re_column_movements,BS,All movements in the retained earnings column of the equity statement,detail
+bs_other_equity,BS,Other equity,detail
+bs_total_equity,BS,Total equity,total
+bs_total_liabilities_and_equity,BS,Total liabilities and equity,total
+cf_net_income,CF,Net income (cash flow start),detail
+cf_starting_profit,CF,Profit before tax (cash flow start),detail
+cf_depreciation_amortisation,CF,Depreciation and amortisation,detail
+cf_change_receivables,CF,Change in receivables,detail
+cf_change_inventory,CF,Change in inventory,detail
+cf_change_payables,CF,Change in payables,detail
+cf_other_operating,CF,Other operating cash items,detail
+cf_net_cash_operating,CF,Net cash from operating activities,subtotal
+cf_capex,CF,Purchase of property plant and equipment,detail
+cf_other_investing,CF,Other investing cash items,detail
+cf_net_cash_investing,CF,Net cash from investing activities,subtotal
+cf_debt_proceeds_repayments,CF,Proceeds from and repayment of borrowings,detail
+cf_dividends_paid,CF,Dividends paid,detail
+cf_other_financing,CF,Other financing cash items,detail
+cf_net_cash_financing,CF,Net cash from financing activities,subtotal
+cf_fx_effect,CF,Effect of exchange rates on cash,detail
+cf_net_change_in_cash,CF,Net change in cash,total
+cf_cash_beginning,CF,Cash at beginning of period,detail
+cf_cash_end,CF,Cash at end of period,detail
+is_eps_basic,IS,Earnings per share (basic),memo
+is_eps_diluted,IS,Earnings per share (diluted),memo
+is_shares_basic,IS,Weighted-average shares outstanding (basic),memo
+is_shares_diluted,IS,Weighted-average shares outstanding (diluted),memo
+is_dividends_per_share,IS,Dividends declared per share,memo
+is_below_net_income,IS,Items printed below net income,memo
+is_non_operating_items,IS,Non-operating income (expense) items,detail
+cf_supplemental_items,CF,Supplemental cash flow disclosures,memo
+is_operating_income_items,IS,Other operating income (expense) items,detail

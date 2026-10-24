@@ -1,0 +1,62 @@
+[
+ {
+  "label": "Gross Sales",
+  "value": "1,250,000"
+ },
+ {
+  "label": "Less: Sales Returns and Allowances",
+  "value": "(25,000)"
+ },
+ {
+  "label": "Net Revenue",
+  "value": "1,225,000"
+ },
+ {
+  "label": "Cost of Goods Sold (COGS)",
+  "value": "(520,000)"
+ },
+ {
+  "label": "Gross Profit",
+  "value": "705,000"
+ },
+ {
+  "label": "Selling, General & Administrative (SG&A)",
+  "value": "210,000"
+ },
+ {
+  "label": "Research & Development (R&D)",
+  "value": "85,000"
+ },
+ {
+  "label": "Depreciation & Amortization",
+  "value": "40,000"
+ },
+ {
+  "label": "Total Operating Expenses",
+  "value": "(335,000)"
+ },
+ {
+  "label": "Operating Income (EBIT)",
+  "value": "370,000"
+ },
+ {
+  "label": "Interest Expense",
+  "value": "(15,000)"
+ },
+ {
+  "label": "Other Income",
+  "value": "8,000"
+ },
+ {
+  "label": "Income Before Taxes (EBT)",
+  "value": "363,000"
+ },
+ {
+  "label": "Income Tax Expense (25%)",
+  "value": "(90,750)"
+ },
+ {
+  "label": "Net Income",
+  "value": "272,250"
+ }
+]

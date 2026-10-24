@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.claude/release-authorized
+.claude/fix-task
+__pycache__/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+evals/report.json
+demo-output/

@@ -1,0 +1,120 @@
+{"company": "gold-a", "statement": "IS", "row": 1, "label": "Revenues", "standard_line_id": "is_revenue"}
+{"company": "gold-a", "statement": "IS", "row": 2, "label": "Cost of sales", "standard_line_id": "is_cost_of_sales"}
+{"company": "gold-a", "statement": "IS", "row": 3, "label": "Gross profit", "standard_line_id": "is_gross_profit"}
+{"company": "gold-a", "statement": "IS", "row": 6, "label": "Total selling and administrative expense", "standard_line_id": "is_operating_expenses"}
+{"company": "gold-a", "statement": "IS", "row": 7, "label": "Interest (income) expense, net", "standard_line_id": "is_interest_expense"}
+{"company": "gold-a", "statement": "IS", "row": 8, "label": "Other (income) expense, net", "standard_line_id": "is_other_items"}
+{"company": "gold-a", "statement": "IS", "row": 9, "label": "Income before income taxes", "standard_line_id": "is_profit_before_tax"}
+{"company": "gold-a", "statement": "IS", "row": 10, "label": "Income tax expense", "standard_line_id": "is_income_tax"}
+{"company": "gold-a", "statement": "IS", "row": 11, "label": "NET INCOME", "standard_line_id": "is_net_income"}
+{"company": "gold-a", "statement": "BS", "row": 1, "label": "Cash and equivalents", "standard_line_id": "bs_cash"}
+{"company": "gold-a", "statement": "BS", "row": 2, "label": "Short-term investments", "standard_line_id": "bs_other_current_assets"}
+{"company": "gold-a", "statement": "BS", "row": 3, "label": "Accounts receivable, net", "standard_line_id": "bs_receivables"}
+{"company": "gold-a", "statement": "BS", "row": 4, "label": "Inventories", "standard_line_id": "bs_inventory"}
+{"company": "gold-a", "statement": "BS", "row": 5, "label": "Prepaid expenses and other current assets", "standard_line_id": "bs_other_current_assets"}
+{"company": "gold-a", "statement": "BS", "row": 6, "label": "Total current assets", "standard_line_id": "bs_total_current_assets"}
+{"company": "gold-a", "statement": "BS", "row": 7, "label": "Property, plant and equipment, net", "standard_line_id": "bs_ppe"}
+{"company": "gold-a", "statement": "BS", "row": 8, "label": "Operating lease right-of-use assets, net", "standard_line_id": "bs_other_noncurrent_assets"}
+{"company": "gold-a", "statement": "BS", "row": 9, "label": "Identifiable intangible assets, net", "standard_line_id": "bs_intangibles"}
+{"company": "gold-a", "statement": "BS", "row": 10, "label": "Goodwill", "standard_line_id": "bs_intangibles"}
+{"company": "gold-a", "statement": "BS", "row": 11, "label": "Deferred income taxes and other assets", "standard_line_id": "bs_other_noncurrent_assets"}
+{"company": "gold-a", "statement": "BS", "row": 12, "label": "TOTAL ASSETS", "standard_line_id": "bs_total_assets"}
+{"company": "gold-a", "statement": "BS", "row": 13, "label": "Current portion of long-term debt", "standard_line_id": "bs_borrowings"}
+{"company": "gold-a", "statement": "BS", "row": 14, "label": "Accounts payable", "standard_line_id": "bs_payables"}
+{"company": "gold-a", "statement": "BS", "row": 15, "label": "Current portion of operating lease liabilities", "standard_line_id": "bs_other_liabilities"}
+{"company": "gold-a", "statement": "BS", "row": 16, "label": "Accrued liabilities", "standard_line_id": "bs_other_liabilities"}
+{"company": "gold-a", "statement": "BS", "row": 17, "label": "Income taxes payable", "standard_line_id": "bs_other_liabilities"}
+{"company": "gold-a", "statement": "BS", "row": 19, "label": "Long-term debt", "standard_line_id": "bs_borrowings"}
+{"company": "gold-a", "statement": "BS", "row": 20, "label": "Operating lease liabilities", "standard_line_id": "bs_other_liabilities"}
+{"company": "gold-a", "statement": "BS", "row": 21, "label": "Deferred income taxes and other liabilities", "standard_line_id": "bs_other_liabilities"}
+{"company": "gold-a", "statement": "BS", "row": 22, "label": "Redeemable preferred stock", "standard_line_id": "bs_other_equity"}
+{"company": "gold-a", "statement": "BS", "row": 23, "label": "Class A convertible", "standard_line_id": "bs_share_capital"}
+{"company": "gold-a", "statement": "BS", "row": 24, "label": "Class B", "standard_line_id": "bs_share_capital"}
+{"company": "gold-a", "statement": "BS", "row": 25, "label": "Capital in excess of stated value", "standard_line_id": "bs_share_capital"}
+{"company": "gold-a", "statement": "BS", "row": 26, "label": "Accumulated other comprehensive income (loss)", "standard_line_id": "bs_other_equity"}
+{"company": "gold-a", "statement": "BS", "row": 27, "label": "Retained earnings (deficit)", "standard_line_id": "bs_retained_earnings"}
+{"company": "gold-a", "statement": "BS", "row": 28, "label": "Total shareholders' equity", "standard_line_id": "bs_total_equity"}
+{"company": "gold-a", "statement": "BS", "row": 29, "label": "TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY", "standard_line_id": "bs_total_liabilities_and_equity"}
+{"company": "gold-a", "statement": "CF", "row": 1, "label": "Net income", "standard_line_id": "cf_net_income"}
+{"company": "gold-a", "statement": "CF", "row": 2, "label": "Depreciation and amortization", "standard_line_id": "cf_depreciation_amortisation"}
+{"company": "gold-a", "statement": "CF", "row": 3, "label": "Deferred income taxes", "standard_line_id": "cf_other_operating"}
+{"company": "gold-a", "statement": "CF", "row": 4, "label": "Stock-based compensation", "standard_line_id": "cf_other_operating"}
+{"company": "gold-a", "statement": "CF", "row": 5, "label": "Impairment and other", "standard_line_id": "cf_other_operating"}
+{"company": "gold-a", "statement": "CF", "row": 6, "label": "Net foreign currency adjustments", "standard_line_id": "cf_other_operating"}
+{"company": "gold-a", "statement": "CF", "row": 7, "label": "(Increase) decrease in accounts receivable", "standard_line_id": "cf_change_receivables"}
+{"company": "gold-a", "statement": "CF", "row": 8, "label": "(Increase) decrease in inventories", "standard_line_id": "cf_change_inventory"}
+{"company": "gold-a", "statement": "CF", "row": 9, "label": "(Increase) decrease in prepaid expenses, operating lease right-of-use assets and other current and non-current assets", "standard_line_id": "cf_other_operating"}
+{"company": "gold-a", "statement": "CF", "row": 10, "label": "Increase (decrease) in accounts payable, accrued liabilities, operating lease liabilities and other current and non-current liabilities", "standard_line_id": "cf_other_operating"}
+{"company": "gold-a", "statement": "CF", "row": 11, "label": "Cash provided (used) by operations", "standard_line_id": "cf_net_cash_operating"}
+{"company": "gold-a", "statement": "CF", "row": 12, "label": "Purchases of short-term investments", "standard_line_id": "cf_other_investing"}
+{"company": "gold-a", "statement": "CF", "row": 13, "label": "Maturities of short-term investments", "standard_line_id": "cf_other_investing"}
+{"company": "gold-a", "statement": "CF", "row": 14, "label": "Sales of short-term investments", "standard_line_id": "cf_other_investing"}
+{"company": "gold-a", "statement": "CF", "row": 15, "label": "Additions to property, plant and equipment", "standard_line_id": "cf_capex"}
+{"company": "gold-a", "statement": "CF", "row": 16, "label": "Cash provided (used) by investing activities", "standard_line_id": "cf_net_cash_investing"}
+{"company": "gold-a", "statement": "CF", "row": 17, "label": "Proceeds from exercise of stock options and other stock issuances", "standard_line_id": "cf_other_financing"}
+{"company": "gold-a", "statement": "CF", "row": 18, "label": "Repurchase of common stock", "standard_line_id": "cf_other_financing"}
+{"company": "gold-a", "statement": "CF", "row": 19, "label": "Dividends — common and preferred", "standard_line_id": "cf_dividends_paid"}
+{"company": "gold-a", "statement": "CF", "row": 20, "label": "Other financing activities", "standard_line_id": "cf_other_financing"}
+{"company": "gold-a", "statement": "CF", "row": 21, "label": "Cash provided (used) by financing activities", "standard_line_id": "cf_net_cash_financing"}
+{"company": "gold-a", "statement": "CF", "row": 22, "label": "Effect of exchange rate changes on cash and equivalents", "standard_line_id": "cf_fx_effect"}
+{"company": "gold-a", "statement": "CF", "row": 23, "label": "Net increase (decrease) in cash and equivalents", "standard_line_id": "cf_net_change_in_cash"}
+{"company": "gold-b", "statement": "IS", "row": 3, "label": "Total net sales", "standard_line_id": "is_revenue"}
+{"company": "gold-b", "statement": "IS", "row": 6, "label": "Total cost of sales", "standard_line_id": "is_cost_of_sales"}
+{"company": "gold-b", "statement": "IS", "row": 7, "label": "Gross margin", "standard_line_id": "is_gross_profit"}
+{"company": "gold-b", "statement": "IS", "row": 10, "label": "Total operating expenses", "standard_line_id": "is_operating_expenses"}
+{"company": "gold-b", "statement": "IS", "row": 11, "label": "Operating income", "standard_line_id": "is_operating_profit"}
+{"company": "gold-b", "statement": "IS", "row": 12, "label": "Other income/(expense), net", "standard_line_id": "is_other_items"}
+{"company": "gold-b", "statement": "IS", "row": 13, "label": "Income before provision for income taxes", "standard_line_id": "is_profit_before_tax"}
+{"company": "gold-b", "statement": "IS", "row": 14, "label": "Provision for income taxes", "standard_line_id": "is_income_tax"}
+{"company": "gold-b", "statement": "IS", "row": 15, "label": "Net income", "standard_line_id": "is_net_income"}
+{"company": "gold-b", "statement": "BS", "row": 1, "label": "Cash and cash equivalents", "standard_line_id": "bs_cash"}
+{"company": "gold-b", "statement": "BS", "row": 2, "label": "Marketable securities", "standard_line_id": "bs_other_current_assets"}
+{"company": "gold-b", "statement": "BS", "row": 3, "label": "Accounts receivable, net", "standard_line_id": "bs_receivables"}
+{"company": "gold-b", "statement": "BS", "row": 4, "label": "Vendor non-trade receivables", "standard_line_id": "bs_receivables"}
+{"company": "gold-b", "statement": "BS", "row": 5, "label": "Inventories", "standard_line_id": "bs_inventory"}
+{"company": "gold-b", "statement": "BS", "row": 6, "label": "Other current assets", "standard_line_id": "bs_other_current_assets"}
+{"company": "gold-b", "statement": "BS", "row": 7, "label": "Total current assets", "standard_line_id": "bs_total_current_assets"}
+{"company": "gold-b", "statement": "BS", "row": 8, "label": "Marketable securities", "standard_line_id": "bs_other_noncurrent_assets"}
+{"company": "gold-b", "statement": "BS", "row": 9, "label": "Property, plant and equipment, net", "standard_line_id": "bs_ppe"}
+{"company": "gold-b", "statement": "BS", "row": 10, "label": "Intangible assets, net", "standard_line_id": "bs_intangibles"}
+{"company": "gold-b", "statement": "BS", "row": 11, "label": "Other non-current assets", "standard_line_id": "bs_other_noncurrent_assets"}
+{"company": "gold-b", "statement": "BS", "row": 13, "label": "Total assets", "standard_line_id": "bs_total_assets"}
+{"company": "gold-b", "statement": "BS", "row": 14, "label": "Accounts payable", "standard_line_id": "bs_payables"}
+{"company": "gold-b", "statement": "BS", "row": 15, "label": "Other current liabilities", "standard_line_id": "bs_other_liabilities"}
+{"company": "gold-b", "statement": "BS", "row": 16, "label": "Deferred revenue", "standard_line_id": "bs_other_liabilities"}
+{"company": "gold-b", "statement": "BS", "row": 17, "label": "Commercial paper", "standard_line_id": "bs_borrowings"}
+{"company": "gold-b", "statement": "BS", "row": 18, "label": "Term debt", "standard_line_id": "bs_borrowings"}
+{"company": "gold-b", "statement": "BS", "row": 20, "label": "Term debt", "standard_line_id": "bs_borrowings"}
+{"company": "gold-b", "statement": "BS", "row": 21, "label": "Other non-current liabilities", "standard_line_id": "bs_other_liabilities"}
+{"company": "gold-b", "statement": "BS", "row": 23, "label": "Total liabilities", "standard_line_id": "bs_total_liabilities"}
+{"company": "gold-b", "statement": "BS", "row": 24, "label": "Common stock and additional paid-in capital", "standard_line_id": "bs_share_capital"}
+{"company": "gold-b", "statement": "BS", "row": 25, "label": "Retained earnings/(Accumulated deficit)", "standard_line_id": "bs_retained_earnings"}
+{"company": "gold-b", "statement": "BS", "row": 26, "label": "Accumulated other comprehensive loss", "standard_line_id": "bs_other_equity"}
+{"company": "gold-b", "statement": "BS", "row": 27, "label": "Total shareholders’ equity", "standard_line_id": "bs_total_equity"}
+{"company": "gold-b", "statement": "BS", "row": 28, "label": "Total liabilities and shareholders’ equity", "standard_line_id": "bs_total_liabilities_and_equity"}
+{"company": "gold-b", "statement": "CF", "row": 2, "label": "Net income", "standard_line_id": "cf_net_income"}
+{"company": "gold-b", "statement": "CF", "row": 3, "label": "Depreciation and amortization", "standard_line_id": "cf_depreciation_amortisation"}
+{"company": "gold-b", "statement": "CF", "row": 4, "label": "Share-based compensation expense", "standard_line_id": "cf_other_operating"}
+{"company": "gold-b", "statement": "CF", "row": 5, "label": "Other", "standard_line_id": "cf_other_operating"}
+{"company": "gold-b", "statement": "CF", "row": 6, "label": "Accounts receivable, net", "standard_line_id": "cf_change_receivables"}
+{"company": "gold-b", "statement": "CF", "row": 7, "label": "Vendor non-trade receivables", "standard_line_id": "cf_change_receivables"}
+{"company": "gold-b", "statement": "CF", "row": 8, "label": "Inventories", "standard_line_id": "cf_change_inventory"}
+{"company": "gold-b", "statement": "CF", "row": 9, "label": "Other current and non-current assets", "standard_line_id": "cf_other_operating"}
+{"company": "gold-b", "statement": "CF", "row": 10, "label": "Accounts payable", "standard_line_id": "cf_change_payables"}
+{"company": "gold-b", "statement": "CF", "row": 11, "label": "Other current and non-current liabilities", "standard_line_id": "cf_other_operating"}
+{"company": "gold-b", "statement": "CF", "row": 12, "label": "Cash generated by operating activities", "standard_line_id": "cf_net_cash_operating"}
+{"company": "gold-b", "statement": "CF", "row": 13, "label": "Purchases of marketable securities", "standard_line_id": "cf_other_investing"}
+{"company": "gold-b", "statement": "CF", "row": 14, "label": "Proceeds from maturities of marketable securities", "standard_line_id": "cf_other_investing"}
+{"company": "gold-b", "statement": "CF", "row": 15, "label": "Proceeds from sales of marketable securities", "standard_line_id": "cf_other_investing"}
+{"company": "gold-b", "statement": "CF", "row": 16, "label": "Payments for acquisition of property, plant and equipment", "standard_line_id": "cf_capex"}
+{"company": "gold-b", "statement": "CF", "row": 17, "label": "Other", "standard_line_id": "cf_other_investing"}
+{"company": "gold-b", "statement": "CF", "row": 18, "label": "Cash generated by/(used in) investing activities", "standard_line_id": "cf_net_cash_investing"}
+{"company": "gold-b", "statement": "CF", "row": 19, "label": "Payments for taxes related to net share settlement of equity awards", "standard_line_id": "cf_other_financing"}
+{"company": "gold-b", "statement": "CF", "row": 20, "label": "Payments for dividends and dividend equivalents", "standard_line_id": "cf_dividends_paid"}
+{"company": "gold-b", "statement": "CF", "row": 21, "label": "Repurchases of common stock", "standard_line_id": "cf_other_financing"}
+{"company": "gold-b", "statement": "CF", "row": 22, "label": "Proceeds from issuance of term debt, net", "standard_line_id": "cf_debt_proceeds_repayments"}
+{"company": "gold-b", "statement": "CF", "row": 23, "label": "Repayments of term debt", "standard_line_id": "cf_debt_proceeds_repayments"}
+{"company": "gold-b", "statement": "CF", "row": 24, "label": "Repayments of commercial paper, net", "standard_line_id": "cf_debt_proceeds_repayments"}
+{"company": "gold-b", "statement": "CF", "row": 25, "label": "Other", "standard_line_id": "cf_other_financing"}
+{"company": "gold-b", "statement": "CF", "row": 26, "label": "Cash used in financing activities", "standard_line_id": "cf_net_cash_financing"}
+{"company": "gold-b", "statement": "CF", "row": 27, "label": "Increase in cash, cash equivalents, and restricted cash and cash equivalents", "standard_line_id": "cf_net_change_in_cash"}
